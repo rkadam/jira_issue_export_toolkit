@@ -1,0 +1,4 @@
+*.pem
+*.pub
+*.oauthconfig
+issue_export.config

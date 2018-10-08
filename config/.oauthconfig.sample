@@ -1,0 +1,8 @@
+[oauth_token_config]
+oauth_token=<oauth token>
+oauth_token_secret=<oauth token secret>
+consumer_key=<consumer key>
+user_private_key_file_name=<private key file path>
+
+[server_info]
+jira_base_url=<jira base url>
